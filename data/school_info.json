@@ -1,0 +1,60 @@
+{
+    "schools": {
+        "name": "현대청운고등학교",
+        "address": "울산광역시 동구 방어진순환도로 1077",
+        "principal": "최수권",
+        "vice_principal": "한상주",
+        "kind": "전국단위 자율형 사립고"
+    },
+    "events": [
+        {"date": "2024-11-13", "event": "수능출정식"},
+        {"date": "2024-11-14", "event": "수능"},
+        {"date": "2024-11-16", "event": "의무귀가"},
+        {"date": "2024-11-17", "event": "의무귀가"},
+        {"date": "2024-12-25", "event": "크리스마스"}
+    ],
+    "2_grade": [
+        {
+            "class": "2-1",
+            "teacher": "서갑식, 2학년 1반 담임선생님",
+            "T_subject": "과학(생명과학부)",
+            "T_description": "때로는 엄하시지만 상당한 츤데레이시다"
+        },
+        {
+            "class": "2-2",
+            "teacher": "박태환, 2학년 2반 담임선생님",
+            "T_subject": "국어",
+            "T_description": "낭만적이시고 정의로우시다"
+        },
+        {
+            "class": "2-3",
+            "teacher": "김준형, 2학년 3반 담임선생님",
+            "T_subject": "과학(화학부)",
+            "T_description": "귀여우시고 인자하시다"
+        },
+        {
+            "class": "2-4",
+            "teacher": "최민준, 2학년 4반 담임선생님",
+            "T_subject": "수학",
+            "T_description": "젠틀하시고 친절하시다"
+        },
+        {
+            "class": "2-5",
+            "teacher": "김재영, 2학년 5반 담임선생님",
+            "T_subject": "수학",
+            "T_description": "귀여우시고 워커홀릭이시다"
+        },
+        {
+            "class": "2-6",
+            "teacher": "권기수, 2학년 6반 담임선생님",
+            "T_subject": "영어",
+            "T_description": "험난한 학교생활의 비타민 같은 존재"
+        },
+        {
+            "class": "2-7",
+            "teacher": "설수진, 2학년 7반 담임선생님",
+            "T_subject": "윤리",
+            "T_description": "너무 너무 귀여우시다"
+        }
+    ]
+}
