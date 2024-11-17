@@ -6,7 +6,7 @@ from datetime import datetime
 from crawler.school_crawler import get_school_meals
 
 # OpenAI API 키 설정
-openai.api_key = "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" 
+openai.api_key = "" 
 
 # 오늘의 날짜 구하기
 today_date = datetime.today().strftime('%Y-%m-%d')
